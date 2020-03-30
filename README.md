@@ -10,4 +10,4 @@ Project was built using Twiiter API.  Backend was setup with NodeJS and express 
  * HTML5
  * CSS3
 
-![Project Image](https://github.com/imadarai/ticker-twitter-api/blob/master/twitter_api.gif?raw=true
+![Project Image](https://github.com/imadarai/ticker-twitter-api/blob/master/twitter_api.gif?raw=true)
